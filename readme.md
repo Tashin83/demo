@@ -3,4 +3,7 @@
 
 tashin 
 bisnu
-saiham 
+saiham
+
+git config user.name Tashin83
+git config user.email tashin@inverseai.com
